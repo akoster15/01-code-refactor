@@ -1,4 +1,4 @@
-# 01-code-refactor
+# code-refactor
 
 Horiseon is a website that helps companies improve social engine optimization, online reputation management, and social media marketing. 
 
